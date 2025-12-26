@@ -29,6 +29,13 @@ In parallel, I work as a **Software Engineer and Flutter Mobile Developer**, bui
 
 A Flutter-based mobile application designed to help users learn the **Coptic language** through a structured, engaging, and beginner-friendly learning experience.
 
+#### 🎯 My Role as a Flutter Developer
+- Designing and developing the application using **Flutter**
+- Implementing **clean UI/UX** optimized for learners
+- Synchronizing **audio with Coptic and Arabic texts**
+- Optimizing performance for **offline usage** and large media files
+- Handling **custom Coptic fonts** across different screen sizes
+  
 <p align="center">
   <img 
     src="https://github.com/Fadyesam/Fadyesam/blob/main/assets/assets/screenshots/logo.png"
