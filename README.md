@@ -31,7 +31,7 @@ A Flutter-based mobile application designed to help users learn the **Coptic lan
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Fadyesam/Fadyesam/main/assets/screenshots/coptic_app_logo.png"
+    src="https://raw.githubusercontent.com/Fadyesam/Fadyesam/main/assets/screenshots/logo.png"
     width="260"
     alt="Learn Coptic App"
   />
@@ -103,10 +103,10 @@ I am passionate about **research, innovation, and intelligent systems**, and I a
   <a href="mailto:fadyesam100@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://fb.com/fady.emil.710">
+  <a href="https://www.facebook.com/profile.php?id=100007067372175">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/fady-emil-771336256/">
+  <a href="https://linkedin.com/in/fady-essam-a42a6921a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
