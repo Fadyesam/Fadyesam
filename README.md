@@ -35,6 +35,10 @@ A Flutter-based mobile application designed to help users learn the **Coptic lan
 - Synchronizing **audio with Coptic and Arabic texts**
 - Optimizing performance for **offline usage** and large media files
 - Handling **custom Coptic fonts** across different screen sizes
+
+### 🛠 Technologies Used
+- Flutter  
+- Local Database
   
 <p align="center">
   <img 
@@ -44,9 +48,19 @@ A Flutter-based mobile application designed to help users learn the **Coptic lan
   />
 </p>
 
-### 🛠 Technologies Used
-- Flutter  
-- Local Database  
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.al_fady.coptic_learning_app">
+    <img src="https://play.google.com/intl/ar/badges/static/images/badges/ar_badge_web_generic.png" width="220" alt="Google Play"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.al_fady.coptic_learning_app">
+    <img src="https://img.shields.io/badge/Rating-4.8%20⭐-green?style=for-the-badge&logo=google-play" alt="Rating"/>
+    <img src="https://img.shields.io/badge/Downloads-1K%2B-blue?style=for-the-badge&logo=google-play" alt="Downloads"/>
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.al_fady.coptic_learning_app">
@@ -132,14 +146,6 @@ I am passionate about **research, innovation, and intelligent systems**, and I a
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fadyesam&theme=tokyonight" />
-</p>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fadyesam&show_icons=true&theme=tokyonight&hide_border=false" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadyesam&layout=compact&theme=tokyonight&langs_count=8&hide_border=false" height="180px"/>
 </p>
 
 
