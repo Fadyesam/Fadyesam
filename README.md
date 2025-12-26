@@ -61,17 +61,6 @@ A Flutter-based mobile application designed to help users learn the **Coptic lan
   </a>
 </p>
 
-
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.al_fady.coptic_learning_app">
-    <img 
-      src="https://play.google.com/intl/ar/badges/static/images/badges/ar_badge_web_generic.png"
-      width="220"
-      alt="متوفر على Google Play"
-    />
-  </a>
-</p>
-
 ---
 
 ## 🧠 Technical Expertise
