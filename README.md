@@ -113,27 +113,6 @@ A Flutter-based mobile application designed to help users learn the **Coptic lan
 I am passionate about **research, innovation, and intelligent systems**, and I aspire to develop AI-driven solutions that combine **human-like understanding** with **real-world impact**, bridging the gap between academic research and practical applications.
 
 ---
-
-## 📬 Contact Information
-- 📧 Email: **fadyesam100@gmail.com**  
-- 📱 Phone: **(+20) 1143672671**
-
----
-
-## 🔗 Connect With Me
-<p align="center">
-  <a href="mailto:fadyesam100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100007067372175">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/fady-essam-a42a6921a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Programming Languages -->
@@ -181,6 +160,26 @@ I am passionate about **research, innovation, and intelligent systems**, and I a
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+</p>
+---
+
+## 📬 Contact Information
+- 📧 Email: **fadyesam100@gmail.com**  
+- 📱 Phone: **(+20) 1143672671**
+
+---
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="mailto:fadyesam100@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100007067372175">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/fady-essam-a42a6921a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
