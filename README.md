@@ -31,7 +31,7 @@ A Flutter-based mobile application designed to help users learn the **Coptic lan
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Fadyesam/Fadyesam/main/assets/screenshots/logo.png"
+    src="https://github.com/Fadyesam/Fadyesam/blob/main/assets/assets/screenshots/logo.png"
     width="260"
     alt="Learn Coptic App"
   />
