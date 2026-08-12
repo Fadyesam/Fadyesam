@@ -50,7 +50,7 @@ I also work as a **Flutter & Software Engineer**, designing and developing moder
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 📖 تَعَلَّم القبطية | Learn Coptic
 
@@ -132,6 +132,54 @@ The application is officially available on:
 
 ---
 
+### ✝️ افهم عقيدتك | Afham Aketak
+
+**افهم عقيدتك** is a Christian educational mobile application designed to provide users with accessible and structured content for understanding the **Christian faith and doctrine**.
+
+The application was developed as a digital educational tool to make Christian theological and doctrinal content easier to access through a modern and user-friendly mobile experience.
+
+### 📱 Published on Google Play
+
+The application is officially available for Android users on **Google Play Store**.
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.al_fady.afham_aketak_app&pcampaignid=web_share">
+    <img
+      src="https://play.google.com/intl/ar/badges/static/images/badges/ar_badge_web_generic.png"
+      width="220"
+      alt="Get it on Google Play"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.al_fady.afham_aketak_app&pcampaignid=web_share">
+    <img
+      src="https://img.shields.io/badge/Google%20Play-Available-green?style=for-the-badge&logo=google-play"
+      alt="Available on Google Play"
+    />
+  </a>
+</p>
+
+### 🎯 My Role
+
+* 📱 Designed and developed the mobile application
+* 🎨 Implemented the application's UI/UX
+* 📚 Structured and presented educational content
+* ⚡ Focused on performance and usability
+* 📦 Prepared and published the application on **Google Play Store**
+* 🔧 Managed the Android build and deployment process
+
+### 🛠 Technologies Used
+
+* Flutter
+* Dart
+* Local Storage
+* Android
+* Google Play
+
+---
+
 ## 📱 Mobile Applications
 
 ### 📖 Learn Coptic — تَعَلَّم القبطية
@@ -153,10 +201,29 @@ A cross-platform mobile application for learning the Coptic language.
     />
   </a>
 
-  <a href="https://apps.apple.com/us/app/%D8%AA-%D8%B9-%D9%84-%D9%85-%D8%A7%D9%84%D9%82%D8%A8%D8%B7%D9%8A%D8%A9/id6791672008">
+  <a href="https://apps.apple.com/us/app/%D8%AA-%D8%B9-%D9%84-%D9%82%D8%A8%D8%B7%D9%8A%D8%A9/id6791672008">
     <img
       src="https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=apple"
       alt="App Store"
+    />
+  </a>
+</p>
+
+### ✝️ Afham Aketak — افهم عقيدتك
+
+A Christian educational mobile application focused on providing accessible content for understanding Christian faith and doctrine.
+
+**Platform:**
+
+* 🤖 Android
+
+**Available on:**
+
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.al_fady.afham_aketak_app&pcampaignid=web_share">
+    <img
+      src="https://img.shields.io/badge/Google%20Play-Download-green?style=for-the-badge&logo=google-play"
+      alt="Google Play"
     />
   </a>
 </p>
