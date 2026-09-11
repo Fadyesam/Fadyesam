@@ -3,9 +3,18 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fady-esam7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C62CF?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:fadyesam100@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s_Talk-4268AE?style=for-the-badge" alt="Email Fady" /></a>
-  <a href="https://www.youtube.com/@FadyTech"><img src="https://img.shields.io/badge/YouTube-FADY_TECH-A34FB5?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="FADY TECH on YouTube" /></a>
+  <a href="https://www.linkedin.com/in/fady-esam7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7C62CF?style=for-the-badge" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:fadyesam100@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let%27s_Talk-4268AE?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Fady" />
+  </a>
+  <a href="https://www.youtube.com/@FadyTech">
+    <img src="https://img.shields.io/badge/YouTube-FADY_TECH-A34FB5?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="FADY TECH on YouTube" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100007067372175">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Connect on Facebook" />
+  </a>
 </p>
 
 <p align="center">
@@ -120,7 +129,7 @@ I share programming and technology content through **[FADY TECH](https://www.you
 
 Interested in **Flutter development, AI, or programming education**? Let's talk.
 
-[**Email**](mailto:fadyesam100@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/fady-essam-a42a6921a/) · [**YouTube**](https://www.youtube.com/@FadyTech) · [**Facebook**](https://www.facebook.com/profile.php?id=100007067372175)
+[**Email**](mailto:fadyesam100@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/fady-esam7/) · [**YouTube**](https://www.youtube.com/@FadyTech) · [**Facebook**](https://www.facebook.com/profile.php?id=100007067372175)
 
 <details>
 <summary>Additional contact</summary>
