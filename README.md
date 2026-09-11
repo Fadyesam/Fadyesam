@@ -12,7 +12,7 @@
   <a href="https://www.youtube.com/@FadyTech">
     <img src="https://img.shields.io/badge/YouTube-FADY_TECH-A34FB5?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="FADY TECH on YouTube" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100007067372175">
+  <a href="https://www.facebook.com/share/1GGfcmYhme/?mibextid=qi2Omg">
     <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Connect on Facebook" />
   </a>
 </p>
@@ -129,7 +129,7 @@ I share programming and technology content through **[FADY TECH](https://www.you
 
 Interested in **Flutter development, AI, or programming education**? Let's talk.
 
-[**Email**](mailto:fadyesam100@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/fady-esam7/) · [**YouTube**](https://www.youtube.com/@FadyTech) · [**Facebook**](https://www.facebook.com/profile.php?id=100007067372175)
+[**Email**](mailto:fadyesam100@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/fady-esam7/) · [**YouTube**](https://www.youtube.com/@FadyTech) · [**Facebook**](https://www.facebook.com/share/1GGfcmYhme/?mibextid=qi2Omg)
 
 <details>
 <summary>Additional contact</summary>
