@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/YouTube-FADY_TECH-A34FB5?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="FADY TECH on YouTube" />
   </a>
   <a href="https://www.facebook.com/share/1GGfcmYhme/?mibextid=qi2Omg">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Connect on Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-عالم_البرمجة-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Connect on Facebook" />
   </a>
 </p>
 
