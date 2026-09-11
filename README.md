@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Fady Esam — AI Teaching Assistant at Sohag University and Flutter Developer. Building useful apps. Making complex ideas clear." />
+  <img src="assets/preview-banner.png" width="100%" alt="Fady Esam — AI Teaching Assistant at Sohag University and Flutter Developer. Building useful apps. Making complex ideas clear." />
 </p>
 
 <p align="center">
