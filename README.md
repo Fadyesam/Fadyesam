@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/fady-esam7"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C62CF?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/fady-esam7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C62CF?style=for-the-badge" alt="Connect on LinkedIn" /></a>
   <a href="mailto:fadyesam100@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s_Talk-4268AE?style=for-the-badge" alt="Email Fady" /></a>
   <a href="https://www.youtube.com/@FadyTech"><img src="https://img.shields.io/badge/YouTube-FADY_TECH-A34FB5?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="FADY TECH on YouTube" /></a>
 </p>
