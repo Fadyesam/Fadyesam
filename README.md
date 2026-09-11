@@ -13,12 +13,7 @@
     <img src="https://img.shields.io/badge/YouTube-FADY_TECH-A34FB5?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="FADY TECH on YouTube" />
   </a>
 <a href="https://www.facebook.com/share/1GGfcmYhme/?mibextid=qi2Omg">
-  <img
-    src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white"
-    alt="Facebook"
-    align="center"
-  />
-  <strong>عالم البرمجة</strong>
+  <img src="https://img.shields.io/badge/Facebook-Programming_World-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Programming World on Facebook" />
 </a>
 </p>
 
