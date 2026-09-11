@@ -115,14 +115,6 @@ I share programming and technology content through **[FADY TECH](https://www.you
 
 [Explore my repositories →](https://github.com/Fadyesam?tab=repositories)
 
-<details>
-<summary>View my contribution graph</summary>
-
-<p align="center">
-  <a href="https://github.com/Fadyesam"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadyesam&amp;bg_color=0d1117&amp;color=b891ff&amp;line=67d5f3&amp;point=cbb3ff&amp;area=true&amp;hide_border=true" width="100%" alt="Fady Esam's GitHub contribution activity graph" /></a>
-</p>
-
-</details>
 
 ## Let's connect
 
